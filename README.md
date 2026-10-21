@@ -39,6 +39,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 - [Buster](https://github.com/sham00n/buster) – Advanced tool for email reconnaissance.  
 - [Have I Been Pwned](https://haveibeenpwned.com/) – Check if an email address has been exposed in a data breach.  
+- [Have I Been Ransomed?](https://haveibeenransom.com/) – Check if your email, phone or company has been leaked by ransomware gangs, stealers or traditional breaches; free search, no signup.  
 
 ---
 
